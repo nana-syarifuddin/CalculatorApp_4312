@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConsoleApp", "Cal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWindowsFormsApp", "CalculatorWindowsFormsApp\CalculatorWindowsFormsApp.csproj", "{6FBA1044-55A8-4B67-A240-17AC2518B044}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorMachine", "CalculatorMachine\CalculatorMachine.csproj", "{76592D5A-0425-4849-BE50-CFA0B543FADC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6FBA1044-55A8-4B67-A240-17AC2518B044}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FBA1044-55A8-4B67-A240-17AC2518B044}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FBA1044-55A8-4B67-A240-17AC2518B044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76592D5A-0425-4849-BE50-CFA0B543FADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76592D5A-0425-4849-BE50-CFA0B543FADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76592D5A-0425-4849-BE50-CFA0B543FADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76592D5A-0425-4849-BE50-CFA0B543FADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

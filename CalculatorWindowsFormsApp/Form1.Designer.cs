@@ -99,7 +99,9 @@ namespace CalculatorWindowsFormsApp
             "Penambahan",
             "Pengurangan",
             "Perkalian",
-            "Pembagian"});
+            "Pembagian",
+            "Pangkat",
+            "Module"});
             this.cmbOperasi.Location = new System.Drawing.Point(85, 54);
             this.cmbOperasi.Name = "cmbOperasi";
             this.cmbOperasi.Size = new System.Drawing.Size(100, 21);
